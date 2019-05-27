@@ -3,6 +3,10 @@
 运行环境
 + Win10 64bit
 + Anaconda 3.7
+涉及的包
++ Jieba
++ Scikit-learn
++ Plotly
 
 文件列表：
 1. 文本预处理与聚类分析.ipynb
