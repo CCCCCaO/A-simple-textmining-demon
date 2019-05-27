@@ -6,9 +6,9 @@
 + Anaconda 3.7
 
 使用的Python包
-+ Jieba
-+ Scikit-learn
-+ Plotly
++ [Jieba](https://github.com/fxsjy/jieba)  
++ [Scikit-learn](https://github.com/scikit-learn/scikit-learn)
++ [Plotly](https://plot.ly)
 
 文件列表：
 1. 文本预处理与聚类分析.ipynb
