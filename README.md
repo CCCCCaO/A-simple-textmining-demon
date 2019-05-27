@@ -3,6 +3,7 @@
 运行环境
 + Win10 64bit
 + Anaconda 3.7
+
 涉及的包
 + Jieba
 + Scikit-learn
