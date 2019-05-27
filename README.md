@@ -1,10 +1,11 @@
 # NLP-Introduction
 这是一个用来存放一些实例演示Notebook的仓库，主要演示了文本挖掘的相关技术。
+
 运行环境
 + Win10 64bit
 + Anaconda 3.7
 
-涉及的包
+使用的Python包
 + Jieba
 + Scikit-learn
 + Plotly
