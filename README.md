@@ -3,7 +3,7 @@
 
 运行环境
 + Win10 64bit
-+ Anaconda 3.7
++ [Anaconda](https://www.anaconda.com/)
 
 使用的Python包
 + [Jieba](https://github.com/fxsjy/jieba)  
